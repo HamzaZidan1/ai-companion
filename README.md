@@ -1,3 +1,5 @@
+![Dashboard](https://github.com/HamzaZidan1/ai-companion/blob/main/public/dashboard.png)
+
 # SaaS AI Companion with Next.js 13, React, Tailwind, Prisma, Stripe 
 
 
